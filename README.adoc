@@ -1,0 +1,8 @@
+= blender operator for selecting all / none / left / right markers
+
+To use, search for the operators,
+
+* "Marker select all"
+* "Marker select none"
+* "Marker select left"
+* "Marker select right"
